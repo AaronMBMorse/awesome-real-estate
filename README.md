@@ -2,6 +2,9 @@
 
 A curated list of **amazing real estate websites** that you might find useful. Whether you're looking for **rental properties**, **homes for sale**, **vacation rentals**, or **commercial real estate**, these websites have got you covered!
 
+## Simulation
+- [REI Simulator](https://www.reisimulator.com) - Real real investing simulator, education and community.
+
 ## 🏘️ Rental Listings
 
 - [PadSplit](https://www.padsplit.com) - Find **shared housing** and rooms for rent.
