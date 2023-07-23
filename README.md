@@ -15,6 +15,8 @@ A curated list of **amazing real estate websites** that you might find useful. W
 
 - [Realtor.com](https://www.realtor.com) - Search for homes and properties for sale, as well as find real estate agents.
 - [Redfin](https://www.redfin.com) - Browse properties for sale and learn about the home buying process.
+- [Craigslist](https://www.craigslist.org) - Classified advertisements website for housing, jobs, items for sale, and more.
+
 
 ## 🏝️ Vacation Rentals
 
