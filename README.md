@@ -84,6 +84,17 @@ A curated list of **amazing real estate websites** that you might find useful. W
 
 - [Castleist](https://castleist.com) - Castles, chateaux, and unique properties for sale worldwide.
 
+## 🏢 Property Management
+
+- [Buildium](https://www.buildium.com) - Property management software for landlords and property managers.
+- [AppFolio](https://www.appfolio.com) - Cloud-based property management software and services.
+- [Cozy](https://www.cozy.co) - Rental property management software for landlords and renters.
+
+## 🏠 Communities
+
+- [BiggerPockets](https://www.biggerpockets.com) - Online community and resources for real estate investors, including house flipping.
+- [Connected Investors](https://connectedinvestors.com) - Real estate investing and house flipping platform.
+
 ---
 
 Feel free to contribute and add more websites to the list! Please ensure that they are reputable and offer value to users. Let's make this list truly awesome! 🚀
