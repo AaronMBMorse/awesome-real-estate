@@ -1,4 +1,4 @@
-# 💼 Awesome Real Estate Investing Strategies 💼
+# 💼 Real Estate Investing Strategies 💼
 
 A curated list of **powerful real estate investing strategies** to help you build wealth and achieve success in the world of real estate.
 
